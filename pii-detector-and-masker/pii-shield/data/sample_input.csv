@@ -1,0 +1,9 @@
+id,name,email,phone,pan_number,aadhaar,city,salary,notes
+1,Arjun Sharma,arjun.sharma@gmail.com,9876543210,ABCPS1234D,1234 5678 9012,Mumbai,75000,Regular customer since 2020
+2,Priya Nair,priya.nair@yahoo.co.in,+91-9123456789,BCDPN5678E,9876 5432 1098,Chennai,82000,Contact at priya.nair@yahoo.co.in for billing
+3,Ravi Kumar,ravi.kumar@outlook.com,08012345678,CDEQK9012F,2345 6789 0123,Delhi,91000,PAN: CDEQK9012F verified
+4,Sunita Mehta,sunita.mehta@hotmail.com,7654321098,DEFPM3456G,3456 7890 1234,Bengaluru,68000,Call 7654321098 for confirmation
+5,Amit Joshi,amit.joshi@rediffmail.com,9988776655,EFGPJ7890H,4567 8901 2345,Pune,55000,Aadhaar: 456789012345
+6,Kavita Rao,kavita.rao@company.org,9001234567,FGHQR2345I,5678 9012 3456,Hyderabad,79000,No PII issues noted
+7,Deepak Singh,deepak.singh@gmail.com,8123456789,GHIRS6789J,6789 0123 4567,Kolkata,88000,Deepak Singh DOB 15-Aug-1990
+8,Meena Pillai,meena.pillai@gmail.com,9234567890,HIJPT1234K,7890 1234 5678,Kochi,61000,verified customer

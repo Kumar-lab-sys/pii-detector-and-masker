@@ -1,0 +1,32 @@
+[
+  {
+    "record_id": "R001",
+    "customer_name": "Ananya Krishnan",
+    "contact_email": "ananya.k@gmail.com",
+    "mobile": "9845012345",
+    "pan": "IJKPA2345L",
+    "aadhaar_no": "8901 2345 6789",
+    "address": "42 MG Road, Bengaluru",
+    "remarks": "Email ananya.k@gmail.com for newsletter"
+  },
+  {
+    "record_id": "R002",
+    "customer_name": "Vikram Desai",
+    "contact_email": "vikram.desai@businessmail.in",
+    "mobile": "+91-8765432109",
+    "pan": "JKLPB6789M",
+    "aadhaar_no": "9012345678901",
+    "address": "17 Juhu Beach Rd, Mumbai",
+    "remarks": "PAN JKLPB6789M confirmed; Aadhaar 901234567890 verified"
+  },
+  {
+    "record_id": "R003",
+    "customer_name": "Neha Gupta",
+    "contact_email": "neha.gupta@domain.com",
+    "mobile": "7890123456",
+    "pan": "KLMPC1234N",
+    "aadhaar_no": "0123 4567 8901",
+    "address": "5 Civil Lines, Delhi",
+    "remarks": "No issues"
+  }
+]
